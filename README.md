@@ -7,10 +7,10 @@
 <h2 align="center"> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
-  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=c&sort= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494772-e54225ba-614c-4e0e-9707-7d23cef4fd24.png'> </a>
-  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=cpp&sort= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494761-a0d9e0c0-3ed2-46a9-bd03-a3c5d5846a7e.png'> </a>
-  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=csharp&sort= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494664-72f433a8-74b5-4514-8c45-bd6ddf945738.png'> </a>
-  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494788-6644a20b-3c3d-4979-9da6-df2b7713d69a.png'> </a>
+  <a href= https://github.com/ryanconfigs?tab=repositories&q=&type=&language=html= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494772-e54225ba-614c-4e0e-9707-7d23cef4fd24.png'> </a>
+  <a href= https://github.com/ryanconfigs?tab=repositories&q=&type=&language=css= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494761-a0d9e0c0-3ed2-46a9-bd03-a3c5d5846a7e.png'> </a>
+  <a href= https://github.com/ryanconfigs?tab=repositories&q=&type=&language=javascript= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494664-72f433a8-74b5-4514-8c45-bd6ddf945738.png'> </a>
+  <a href= https://github.com/ryanconfigs?tab=repositories&q=&type=&language=python= > <img width ='42px' src ='https://user-images.githubusercontent.com/88989045/129494788-6644a20b-3c3d-4979-9da6-df2b7713d69a.png'> </a>
 </p>
 
 <h2 align="center"> My GitHub Stats: </h2>
