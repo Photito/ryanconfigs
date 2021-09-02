@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hi, I'm Anthony!, but I'm known as Ryan/Kaiju on the forums, I'm a kid that is trying to learn to code. </h3>
   
-<h3 align="center"> I'm from England. </h3>
+<h3 align="center"> I'm from Colombia. </h3>
 
 <h2 align="center"> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
